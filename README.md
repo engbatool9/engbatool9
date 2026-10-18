@@ -1,6 +1,6 @@
 # Hi, I'm Batool
 
-EElectronic Engineer and full-stack developer. I combine hardware and software skills to build web applications and embedded systems, from React and Node.js apps to Arduino-controlled robots.
+Electronic Engineer and full-stack developer. I combine hardware and software skills to build web applications and embedded systems, from React and Node.js apps to Arduino-controlled robots.
 
 ## 🔧 What I work on
 - Full-stack web apps with React, Node.js, Express.js and MongoDB
