@@ -1,6 +1,6 @@
-# Hi, I'm Batool 👋
+# Hi, I'm Batool
 
-Electronic Engineering graduate (University of Bahrain, 2023) and full-stack developer based in Bahrain 🇧🇭.
+EElectronic Engineer and full-stack developer. I combine hardware and software skills to build web applications and embedded systems, from React and Node.js apps to Arduino-controlled robots.
 
 ## 🔧 What I work on
 - Full-stack web apps with React, Node.js, Express.js and MongoDB
@@ -12,9 +12,10 @@ Electronic Engineering graduate (University of Bahrain, 2023) and full-stack dev
 **Wall-Climbing Robot**, my graduation project: a suction-based climbing robot with a high-speed motor, a custom chassis designed in Fusion 360, and Arduino control logic for automated cleaning and inspection.
 
 ## 🛠️ Tech stack
-React · Node.js · Express.js · MongoDB · Python · C++ · Arduino · Fusion 360
+HTML · CSS · Javascript · React · Node.js · Express.js · MongoDB · Python · C++ · Arduino
 
 ## 📫 Get in touch
 
 - Email: eng.batool.shubber99@gmail.com
-# engbatool9
+
+
