@@ -1,3 +1,6 @@
+<img width="959" height="266" alt="image" src="https://github.com/user-attachments/assets/b39d3e88-742d-4c21-82ee-92f9b7ddc649" />
+
+
 # Hi, I'm Batool
 
 Electronic Engineer and full-stack developer. I combine hardware and software skills to build web applications and embedded systems, from React and Node.js apps to Arduino-controlled robots.
